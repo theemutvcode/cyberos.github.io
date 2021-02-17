@@ -1,21 +1,23 @@
 {
   "files": {
-    "main.css": "/static/css/main.c242fca2.chunk.css",
-    "main.js": "/static/js/main.35db005a.chunk.js",
-    "main.js.map": "/static/js/main.35db005a.chunk.js.map",
+    "main.css": "/static/css/main.dd93779d.chunk.css",
+    "main.js": "/static/js/main.834a8aff.chunk.js",
+    "main.js.map": "/static/js/main.834a8aff.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.1e7af35f.js",
     "runtime-main.js.map": "/static/js/runtime-main.1e7af35f.js.map",
     "static/js/2.5a416daf.chunk.js": "/static/js/2.5a416daf.chunk.js",
     "static/js/2.5a416daf.chunk.js.map": "/static/js/2.5a416daf.chunk.js.map",
     "index.html": "/index.html",
-    "static/css/main.c242fca2.chunk.css.map": "/static/css/main.c242fca2.chunk.css.map",
+    "static/css/main.dd93779d.chunk.css.map": "/static/css/main.dd93779d.chunk.css.map",
     "static/js/2.5a416daf.chunk.js.LICENSE.txt": "/static/js/2.5a416daf.chunk.js.LICENSE.txt",
-    "static/media/cyber-logo.ad899d8c.svg": "/static/media/cyber-logo.ad899d8c.svg"
+    "static/media/cyber-logo.ad899d8c.svg": "/static/media/cyber-logo.ad899d8c.svg",
+    "static/media/preview_dark.9244a69a.png": "/static/media/preview_dark.9244a69a.png",
+    "static/media/preview_light.999b5c52.png": "/static/media/preview_light.999b5c52.png"
   },
   "entrypoints": [
     "static/js/runtime-main.1e7af35f.js",
     "static/js/2.5a416daf.chunk.js",
-    "static/css/main.c242fca2.chunk.css",
-    "static/js/main.35db005a.chunk.js"
+    "static/css/main.dd93779d.chunk.css",
+    "static/js/main.834a8aff.chunk.js"
   ]
 }
