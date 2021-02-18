@@ -1,0 +1,9 @@
+
+{
+  "website": {
+    "introQuote": "Eine Linux-Distribution, basierend auf Qt Quick und Arch Linux.",
+    "download": "Herunterladen",
+    "wipDisclaimer": "You can help by [sending a pull request]. Psst, diese Website ist noch nicht fertig. Du kannst helfen, indem du ein [pull request sendest]. ",
+    "footerCopyright": "Copyright © CyberOS Team 2020 ~ 2021"
+  }
+}
